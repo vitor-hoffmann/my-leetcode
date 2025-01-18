@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-Este repositório contém minhas soluções para problemas do [LeetCode](https://leetcode.com/), resolvidas em Python. O objetivo é acompanhar meu progresso e compartilhar abordagens para diferentes níveis de dificuldade.
+This repository contains my solutions to [LeetCode](https://leetcode.com/) problems, solved in Python. The goal is to track my progress and share approaches for different levels of difficulty.
 
-## Estrutura
+## Structure
 
-As soluções estão organizadas por nível de dificuldade:
-- `easy/`: Problemas fáceis
-- `medium/`: Problemas médios
-- `hard/`: Problemas difíceis
+The solutions are organized by difficulty level:
+- `easy/`: Easy problems
+- `medium/`: Medium problems
+- `hard/`: Hard problems
 
-## Progresso
+## Progress
 
-| Problema                 | Dificuldade | Arquivo               |
+| Problem                  | Difficulty  | File                  |
 |--------------------------|-------------|-----------------------|
-| Two Sum                 | Fácil       | `easy/two_sum.py`    |
+| Two Sum                 | Easy        | `easy/two_sum.py`    |
