@@ -14,3 +14,4 @@ The solutions are organized by difficulty level:
 | Problem                  | Difficulty  | File                  |
 |--------------------------|-------------|-----------------------|
 | Two Sum                 | Easy        | `easy/two_sum.py`    |
+| Add Two Numbers         | Medium      | `medium/AddTwoNumbers.py`    |
