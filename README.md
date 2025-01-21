@@ -15,3 +15,5 @@ The solutions are organized by difficulty level:
 |--------------------------|-------------|-----------------------|
 | Two Sum                 | Easy        | `easy/two_sum.py`    |
 | Add Two Numbers         | Medium      | `medium/AddTwoNumbers.py`    |
+| lengthOfLongestSubstring       | Medium      | `medium/lengthOfLongestSubstring.py`    |
+
