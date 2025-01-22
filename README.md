@@ -5,15 +5,16 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 ## Structure
 
 The solutions are organized by difficulty level:
+
 - `easy/`: Easy problems
 - `medium/`: Medium problems
 - `hard/`: Hard problems
 
 ## Progress
 
-| Problem                  | Difficulty  | File                  |
-|--------------------------|-------------|-----------------------|
-| Two Sum                 | Easy        | `easy/two_sum.py`    |
-| Add Two Numbers         | Medium      | `medium/AddTwoNumbers.py`    |
-| lengthOfLongestSubstring       | Medium      | `medium/lengthOfLongestSubstring.py`    |
-
+| Problem                  | Difficulty | File                                 |
+| ------------------------ | ---------- | ------------------------------------ |
+| Two Sum                  | Easy       | `easy/two_sum.py`                    |
+| Add Two Numbers          | Medium     | `medium/AddTwoNumbers.py`            |
+| lengthOfLongestSubstring | Medium     | `medium/lengthOfLongestSubstring.py` |
+| findMedianSortedArrays   | Hard       | `hard/findMedianSortedArrays.py`     |
