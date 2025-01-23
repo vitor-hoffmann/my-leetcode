@@ -18,3 +18,4 @@ The solutions are organized by difficulty level:
 | Add Two Numbers          | Medium     | `medium/AddTwoNumbers.py`            |
 | lengthOfLongestSubstring | Medium     | `medium/lengthOfLongestSubstring.py` |
 | findMedianSortedArrays   | Hard       | `hard/findMedianSortedArrays.py`     |
+| longestPalindrome        | Medium     | `medium/longestPalindrome.py`        |
