@@ -19,4 +19,3 @@ The solutions are organized by difficulty level:
 | lengthOfLongestSubstring | Medium     | `medium/lengthOfLongestSubstring.py` |
 | findMedianSortedArrays   | Hard       | `hard/findMedianSortedArrays.py`     |
 | longestPalindrome        | Medium     | `medium/longestPalindrome.py`        |
-| Zigzag conversion        | Medium     | `medium/ZigzagConversion.py`         |
