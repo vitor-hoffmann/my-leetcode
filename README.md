@@ -20,3 +20,4 @@ The solutions are organized by difficulty level:
 | findMedianSortedArrays   | Hard       | `hard/findMedianSortedArrays.py`     |
 | longestPalindrome        | Medium     | `medium/longestPalindrome.py`        |
 | Zigzag conversion        | Medium     | `medium/ZigzagConversion.py`         |
+| Reverse Integer          | Medium     | `medium/ReverseInteger.py  `         |
