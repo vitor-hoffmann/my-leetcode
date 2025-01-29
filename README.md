@@ -21,3 +21,4 @@ The solutions are organized by difficulty level:
 | longestPalindrome        | Medium     | `medium/longestPalindrome.py`        |
 | Zigzag conversion        | Medium     | `medium/ZigzagConversion.py`         |
 | Reverse Integer          | Medium     | `medium/ReverseInteger.py  `         |
+| String to Integer (atoi) | Medium     | `medium/StringToInteger.py  `        |
