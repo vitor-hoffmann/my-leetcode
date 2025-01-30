@@ -22,3 +22,4 @@ The solutions are organized by difficulty level:
 | Zigzag conversion        | Medium     | `medium/ZigzagConversion.py`         |
 | Reverse Integer          | Medium     | `medium/ReverseInteger.py  `         |
 | String to Integer (atoi) | Medium     | `medium/StringToInteger.py  `        |
+| PalindromeNumber         | Easy       | `easy/PalindromeNumber.py  `         |
