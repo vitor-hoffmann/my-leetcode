@@ -26,3 +26,4 @@ The solutions are organized by difficulty level:
 | Regular Expression        | Hard       | `hard/isMatch.py  `                  |
 | Container With Most Water | Medium     | `medium/ContainerWithMostWater.py  ` |
 | Integer to Roman          | Medium     | `medium/IntegerToRoman.py  `         |
+| Roman to Integer          | Easy       | `easy/romanToInteger.py  `           |
