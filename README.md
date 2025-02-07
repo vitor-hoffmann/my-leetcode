@@ -27,3 +27,5 @@ The solutions are organized by difficulty level:
 | Container With Most Water | Medium     | `medium/ContainerWithMostWater.py  ` |
 | Integer to Roman          | Medium     | `medium/IntegerToRoman.py  `         |
 | Roman to Integer          | Easy       | `easy/romanToInteger.py  `           |
+| Longest Common prefix     | Easy       | `easy/longestprefix.py  `            |
+| 3 Sum                     | Medium     | `medium/3sumu.py  `                  |
