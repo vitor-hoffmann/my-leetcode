@@ -29,3 +29,4 @@ The solutions are organized by difficulty level:
 | Roman to Integer          | Easy       | `easy/romanToInteger.py  `           |
 | Longest Common prefix     | Easy       | `easy/longestprefix.py  `            |
 | 3 Sum                     | Medium     | `medium/3sumu.py  `                  |
+| 3 Sum Closest             | Medium     | `medium/threeSumClosest.py  `        |
