@@ -30,3 +30,4 @@ The solutions are organized by difficulty level:
 | Longest Common prefix     | Easy       | `easy/longestprefix.py  `            |
 | 3 Sum                     | Medium     | `medium/3sumu.py  `                  |
 | 3 Sum Closest             | Medium     | `medium/threeSumClosest.py  `        |
+| Letter Combinations       | Medium     | `medium/letterCombinations.py  `     |
