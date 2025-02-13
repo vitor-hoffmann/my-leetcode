@@ -12,14 +12,23 @@ The solutions are organized by difficulty level:
 
 ## Progress
 
-| Problem                  | Difficulty | File                                 |
-| ------------------------ | ---------- | ------------------------------------ |
-| Two Sum                  | Easy       | `easy/two_sum.py`                    |
-| Add Two Numbers          | Medium     | `medium/AddTwoNumbers.py`            |
-| lengthOfLongestSubstring | Medium     | `medium/lengthOfLongestSubstring.py` |
-| findMedianSortedArrays   | Hard       | `hard/findMedianSortedArrays.py`     |
-| longestPalindrome        | Medium     | `medium/longestPalindrome.py`        |
-| Zigzag conversion        | Medium     | `medium/ZigzagConversion.py`         |
-| Reverse Integer          | Medium     | `medium/ReverseInteger.py  `         |
-| String to Integer (atoi) | Medium     | `medium/StringToInteger.py  `        |
-| 4Sum                     | Medium     | `medium/4Sum.py  `                   |
+| Problem                   | Difficulty | File                                 |
+| ------------------------- | ---------- | ------------------------------------ |
+| Two Sum                   | Easy       | `easy/two_sum.py`                    |
+| Add Two Numbers           | Medium     | `medium/AddTwoNumbers.py`            |
+| lengthOfLongestSubstring  | Medium     | `medium/lengthOfLongestSubstring.py` |
+| findMedianSortedArrays    | Hard       | `hard/findMedianSortedArrays.py`     |
+| longestPalindrome         | Medium     | `medium/longestPalindrome.py`        |
+| Zigzag conversion         | Medium     | `medium/ZigzagConversion.py`         |
+| Reverse Integer           | Medium     | `medium/ReverseInteger.py  `         |
+| String to Integer (atoi)  | Medium     | `medium/StringToInteger.py  `        |
+| PalindromeNumber          | Easy       | `easy/PalindromeNumber.py  `         |
+| Regular Expression        | Hard       | `hard/isMatch.py  `                  |
+| Container With Most Water | Medium     | `medium/ContainerWithMostWater.py  ` |
+| Integer to Roman          | Medium     | `medium/IntegerToRoman.py  `         |
+| Roman to Integer          | Easy       | `easy/romanToInteger.py  `           |
+| Longest Common prefix     | Easy       | `easy/longestprefix.py  `            |
+| 3 Sum                     | Medium     | `medium/3sumu.py  `                  |
+| 3 Sum Closest             | Medium     | `medium/threeSumClosest.py  `        |
+| Letter Combinations       | Medium     | `medium/letterCombinations.py  `     |
+| 4Sum                      | Medium     | `medium/4Sum.py  `                   |
