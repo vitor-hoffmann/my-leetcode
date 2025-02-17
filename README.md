@@ -35,3 +35,4 @@ The solutions are organized by difficulty level:
 | 4Sum                             | Medium     | `medium/4Sum.py  `                   |
 | Remove Nth Node From End of List | Medium     | `medium/removeNthFromEnd.py  `       |
 | Valid Parentheses                | Easy       | `easy/isValid.py  `                  |
+| Stop gninnipS My sdroW           | Easy       | `easy/spinWords.js  `                |
