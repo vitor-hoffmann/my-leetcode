@@ -37,3 +37,4 @@ The solutions are organized by difficulty level:
 | Valid Parentheses                       | Easy       | `easy/isValid.py  `                  |
 | Stop gninnipS My sdroW                  | Easy       | `easy/spinWords.js  `                |
 | Números de colunas da planilha do Excel | Medium     | `medium/titleToNumber.js`            |
+| Merge Two Sorted Lists                  | easy       | `easy/mergeTwoLists.py`              |
