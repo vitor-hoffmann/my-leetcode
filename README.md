@@ -39,3 +39,4 @@ The solutions are organized by difficulty level:
 | Números de colunas da planilha do Excel | Medium     | `medium/titleToNumber.js`            |
 | Merge Two Sorted Lists                  | Easy       | `easy/mergeTwoLists.py`              |
 | Generate Parentheses                    | Medium     | `medium/generateParenthesis.py`      |
+| Merge k Sorted Lists                    | Hard       | `medium/mergeKLists.py`              |
