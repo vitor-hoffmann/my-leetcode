@@ -40,3 +40,4 @@ The solutions are organized by difficulty level:
 | Merge Two Sorted Lists                  | Easy       | `easy/mergeTwoLists.py`              |
 | Generate Parentheses                    | Medium     | `medium/generateParenthesis.py`      |
 | Merge k Sorted Lists                    | Hard       | `medium/mergeKLists.py`              |
+| Swap Nodes in Pairs                     | Medium     | `medium/swapPairs.py`                |
