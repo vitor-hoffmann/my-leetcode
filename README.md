@@ -41,3 +41,4 @@ The solutions are organized by difficulty level:
 | Generate Parentheses                    | Medium     | `medium/generateParenthesis.py`      |
 | Merge k Sorted Lists                    | Hard       | `medium/mergeKLists.py`              |
 | Swap Nodes in Pairs                     | Medium     | `medium/swapPairs.py`                |
+| Conte o número de cubos com tinta       | Easy       | `easy/countSquares.js`               |
