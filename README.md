@@ -42,3 +42,4 @@ The solutions are organized by difficulty level:
 | Merge k Sorted Lists                    | Hard       | `medium/mergeKLists.py`              |
 | Swap Nodes in Pairs                     | Medium     | `medium/swapPairs.py`                |
 | Conte o número de cubos com tinta       | Easy       | `easy/countSquares.js`               |
+| Remove Duplicates from Sorted Array     | Easy       | `easy/removeDuplicates.py`           |
