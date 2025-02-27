@@ -43,3 +43,4 @@ The solutions are organized by difficulty level:
 | Swap Nodes in Pairs                     | Medium     | `medium/swapPairs.py`                |
 | Conte o número de cubos com tinta       | Easy       | `easy/countSquares.js`               |
 | Remove Duplicates from Sorted Array     | Easy       | `easy/removeDuplicates.py`           |
+| Remove Element                          | Easy       | `easy/removeElement.py`              |
