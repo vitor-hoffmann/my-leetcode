@@ -45,3 +45,4 @@ The solutions are organized by difficulty level:
 | Remove Duplicates from Sorted Array                | Easy       | `easy/removeDuplicates.py`           |
 | Remove Element                                     | Easy       | `easy/removeElement.py`              |
 | Find the Index of the First Occurrence in a String | Easy       | `easy/strStr.py`                     |
+| Divide Two Integers                                | Medium     | `medium/divide.py`                   |
