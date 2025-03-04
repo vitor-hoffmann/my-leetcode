@@ -46,3 +46,4 @@ The solutions are organized by difficulty level:
 | Remove Element                                     | Easy       | `easy/removeElement.py`              |
 | Find the Index of the First Occurrence in a String | Easy       | `easy/strStr.py`                     |
 | Divide Two Integers                                | Medium     | `medium/divide.py`                   |
+| Check if Number is a Sum of Powers of Three        | Medium     | `medium/checkPowersOfThree.py`       |
