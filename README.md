@@ -49,3 +49,4 @@ The solutions are organized by difficulty level:
 | Check if Number is a Sum of Powers of Three        | Medium     | `medium/checkPowersOfThree.py`         |
 | Find Missing and Repeated Values                   | Easy       | `easy/findMissingAndRepeatedValues.py` |
 | Search Insert Position                             | Easy       | `easy/searchInsert.py`                 |
+| Closest Prime Numbers in Range                     | Medium     | `easy/closestPrimes.py`                |
