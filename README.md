@@ -50,3 +50,4 @@ The solutions are organized by difficulty level:
 | Find Missing and Repeated Values                   | Easy       | `easy/findMissingAndRepeatedValues.py` |
 | Search Insert Position                             | Easy       | `easy/searchInsert.py`                 |
 | Closest Prime Numbers in Range                     | Medium     | `easy/closestPrimes.py`                |
+| Reverse Nodes in k-Group                           | Hard       | `hard/reverseKGroup.py`                |
