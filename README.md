@@ -51,3 +51,4 @@ The solutions are organized by difficulty level:
 | Search Insert Position                             | Easy       | `easy/searchInsert.py`                 |
 | Closest Prime Numbers in Range                     | Medium     | `easy/closestPrimes.py`                |
 | Reverse Nodes in k-Group                           | Hard       | `hard/reverseKGroup.py`                |
+| Length of Last Word                                | Easy       | `easy/lengthOfLastWord.py`             |
