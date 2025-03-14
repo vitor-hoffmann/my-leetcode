@@ -53,3 +53,4 @@ The solutions are organized by difficulty level:
 | Reverse Nodes in k-Group                               | Hard       | `hard/reverseKGroup.py`                |
 | Length of Last Word                                    | Easy       | `easy/lengthOfLastWord.py`             |
 | Maximum Count of Positive Integer and Negative Integer | Easy       | `easy/maximumCount.py`                 |
+| Next Permutation                                       | Medium     | `medium/nextPermutation.py`            |
