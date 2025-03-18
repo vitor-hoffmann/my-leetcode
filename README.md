@@ -55,4 +55,5 @@ The solutions are organized by difficulty level:
 | Maximum Count of Positive Integer and Negative Integer | Easy       | `easy/maximumCount.py`                 |
 | Maximum Candies Allocated to K Children                | Medium     | `medium/maximumCandies.py`             |
 | Next Permutation                                       | Medium     | `medium/nextPermutation.py`            |
-| Divide Array Into Equal Pairs                          | Easy       | `medium/divideArray.py`                |
+| Divide Array Into Equal Pairs                          | Easy       | `easy/divideArray.py`                  |
+| Longest Nice Subarray                                  | Medium     | `medium/longestNiceSubarray.py`        |
