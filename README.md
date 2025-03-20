@@ -57,3 +57,4 @@ The solutions are organized by difficulty level:
 | Next Permutation                                       | Medium     | `medium/nextPermutation.py`            |
 | Divide Array Into Equal Pairs                          | Easy       | `easy/divideArray.py`                  |
 | Longest Nice Subarray                                  | Medium     | `medium/longestNiceSubarray.py`        |
+| Minimum Cost Walk in Weighted Graph                    | Hard       | `hard/minimumCost.py`                  |
