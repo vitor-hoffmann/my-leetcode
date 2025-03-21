@@ -58,3 +58,4 @@ The solutions are organized by difficulty level:
 | Divide Array Into Equal Pairs                          | Easy       | `easy/divideArray.py`                  |
 | Longest Nice Subarray                                  | Medium     | `medium/longestNiceSubarray.py`        |
 | Minimum Cost Walk in Weighted Graph                    | Hard       | `hard/minimumCost.py`                  |
+| Find All Possible Recipes from Given Supplies          | Medium     | `medium/findAllRecipes.py`             |
