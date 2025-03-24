@@ -59,3 +59,4 @@ The solutions are organized by difficulty level:
 | Longest Nice Subarray                                  | Medium     | `medium/longestNiceSubarray.py`        |
 | Minimum Cost Walk in Weighted Graph                    | Hard       | `hard/minimumCost.py`                  |
 | Find All Possible Recipes from Given Supplies          | Medium     | `medium/findAllRecipes.py`             |
+| Longest Valid Parentheses                              | Hard       | `hard/longestValidParentheses.py`      |
