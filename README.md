@@ -60,3 +60,4 @@ The solutions are organized by difficulty level:
 | Minimum Cost Walk in Weighted Graph                    | Hard       | `hard/minimumCost.py`                  |
 | Find All Possible Recipes from Given Supplies          | Medium     | `medium/findAllRecipes.py`             |
 | Longest Valid Parentheses                              | Hard       | `hard/longestValidParentheses.py`      |
+| Check if Grid can be Cut into Sections                 | Hard       | `hard/checkValidCuts.py`               |
