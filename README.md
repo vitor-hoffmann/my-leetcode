@@ -62,3 +62,4 @@ The solutions are organized by difficulty level:
 | Longest Valid Parentheses                              | Hard       | `hard/longestValidParentheses.py`      |
 | Check if Grid can be Cut into Sections                 | Hard       | `hard/checkValidCuts.py`               |
 | Substring with Concatenation of All Words              | Hard       | `hard/findSubstring.py`                |
+| Search in Rotated Sorted Array                         | Medium     | `medium/search.py`                     |
