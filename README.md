@@ -65,3 +65,4 @@ The solutions are organized by difficulty level:
 | Search in Rotated Sorted Array                          | Medium     | `medium/search.py`                     |
 | Find First and Last Position of Element in Sorted Array | Medium     | `medium/searchRange.py`                |
 | Valid Sudoku                                            | Medium     | `medium/isValidSudoku.py`              |
+| Sudoku Solver                                           | Hard       | `hard/solveSudoku.py`                  |
