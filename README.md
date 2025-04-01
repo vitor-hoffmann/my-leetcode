@@ -64,3 +64,4 @@ The solutions are organized by difficulty level:
 | Substring with Concatenation of All Words               | Hard       | `hard/findSubstring.py`                |
 | Search in Rotated Sorted Array                          | Medium     | `medium/search.py`                     |
 | Find First and Last Position of Element in Sorted Array | Medium     | `medium/searchRange.py`                |
+| Valid Sudoku                                            | Medium     | `medium/isValidSudoku.py`              |
