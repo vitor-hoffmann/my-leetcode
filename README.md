@@ -66,3 +66,4 @@ The solutions are organized by difficulty level:
 | Find First and Last Position of Element in Sorted Array | Medium     | `medium/searchRange.py`                |
 | Valid Sudoku                                            | Medium     | `medium/isValidSudoku.py`              |
 | Sudoku Solver                                           | Hard       | `hard/solveSudoku.py`                  |
+| Minimum Operations to Make Array Values Equal to K      | Easy       | `easy/minOperations.py`                |
