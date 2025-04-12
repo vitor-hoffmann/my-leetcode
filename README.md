@@ -67,3 +67,4 @@ The solutions are organized by difficulty level:
 | Valid Sudoku                                            | Medium     | `medium/isValidSudoku.py`              |
 | Sudoku Solver                                           | Hard       | `hard/solveSudoku.py`                  |
 | Minimum Operations to Make Array Values Equal to K      | Easy       | `easy/minOperations.py`                |
+| Find the Count of Good Integers                         | Hard       | `hard/countGoodIntegers.py`            |
