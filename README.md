@@ -69,3 +69,4 @@ The solutions are organized by difficulty level:
 | Minimum Operations to Make Array Values Equal to K      | Easy       | `easy/minOperations.py`                |
 | Find the Count of Good Integers                         | Hard       | `hard/countGoodIntegers.py`            |
 | Count Good Numbers                                      | Medium     | `medium/countGoodNumbers.py`           |
+| Count Good Triplets in an Array                         | Hard       | `hard/goodTriplets.py`                 |
