@@ -70,3 +70,4 @@ The solutions are organized by difficulty level:
 | Find the Count of Good Integers                         | Hard       | `hard/countGoodIntegers.py`            |
 | Count Good Numbers                                      | Medium     | `medium/countGoodNumbers.py`           |
 | Count Good Triplets in an Array                         | Hard       | `hard/goodTriplets.py`                 |
+| Count Equal and Divisible Pairs in an Array             | Easy       | `easy/goodTriplets.py`                 |
