@@ -72,3 +72,4 @@ The solutions are organized by difficulty level:
 | Count Good Triplets in an Array                         | Hard       | `hard/goodTriplets.py`                 |
 | Count Equal and Divisible Pairs in an Array             | Easy       | `easy/goodTriplets.py`                 |
 | Count the Number of Fair Pairs                          | Medium     | `medium/countFairPairs.py`             |
+| Count the Number of Ideal Arrays                        | Hard       | `hard/idealArrays.py`                  |
