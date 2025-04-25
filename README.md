@@ -74,3 +74,4 @@ The solutions are organized by difficulty level:
 | Count the Number of Fair Pairs                          | Medium     | `medium/countFairPairs.py`             |
 | Count the Number of Ideal Arrays                        | Hard       | `hard/idealArrays.py`                  |
 | Count Complete Subarrays in an Array                    | Medium     | `medium/countCompleteSubarrays.py`     |
+| Count of Interesting Subarrays                          | Medium     | `medium/countInterestingSubarrays.py`  |
