@@ -75,3 +75,4 @@ The solutions are organized by difficulty level:
 | Count the Number of Ideal Arrays                        | Hard       | `hard/idealArrays.py`                  |
 | Count Complete Subarrays in an Array                    | Medium     | `medium/countCompleteSubarrays.py`     |
 | Count of Interesting Subarrays                          | Medium     | `medium/countInterestingSubarrays.py`  |
+| Count Subarrays With Fixed Bounds                       | Hard       | `hard/countSubarrays.py`               |
