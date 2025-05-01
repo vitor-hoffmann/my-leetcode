@@ -76,3 +76,4 @@ The solutions are organized by difficulty level:
 | Count Complete Subarrays in an Array                    | Medium     | `medium/countCompleteSubarrays.py`     |
 | Count of Interesting Subarrays                          | Medium     | `medium/countInterestingSubarrays.py`  |
 | Count Subarrays With Fixed Bounds                       | Hard       | `hard/countSubarrays.py`               |
+| Maximum Number of Tasks You Can Assign                  | Hard       | `hard/maxTaskAssign.py`                |
