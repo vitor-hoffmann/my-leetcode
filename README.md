@@ -78,3 +78,4 @@ The solutions are organized by difficulty level:
 | Count Subarrays With Fixed Bounds                       | Hard       | `hard/countSubarrays.py`               |
 | Maximum Number of Tasks You Can Assign                  | Hard       | `hard/maxTaskAssign.py`                |
 | Domino and Tromino Tiling                               | Medium     | `medium/numTilings.py`                 |
+| Find Minimum Time to Reach Last Room I                  | Medium     | `medium/minTimeToReach.py`             |
