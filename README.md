@@ -79,3 +79,4 @@ The solutions are organized by difficulty level:
 | Maximum Number of Tasks You Can Assign                  | Hard       | `hard/maxTaskAssign.py`                |
 | Domino and Tromino Tiling                               | Medium     | `medium/numTilings.py`                 |
 | Find Minimum Time to Reach Last Room I                  | Medium     | `medium/minTimeToReach.py`             |
+| Longest Unequal Adjacent Groups Subsequence I           | Easy       | `easy/minTimeToReach.py`               |
